@@ -1,2 +1,1 @@
-# shell-scripting
-this is where I play with shell
+automate the boring stuff
